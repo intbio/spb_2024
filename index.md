@@ -1,5 +1,6 @@
-<a href="https://github.com/intbio/spb_2022/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Современные проблемы биологии (Осень 2022)
+<a href="https://github.com/intbio/spb_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+# Современные проблемы биологии (Осень 2024), 2 курс магистратуры
+
 
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
@@ -7,18 +8,18 @@
 
 ### Meetings and Location
 - Classroom: Bioeng Dept. (Leninskie Gory 1-73), rooms 542, 543
-- Lectures: 9:00-10:35
+- Lectures: 12:45-14:20 on Wednesdays
 - Online stream [here](https://distant.bioeng.ru/b/d67-o3v-ced-4qp)
 
 
 ### Course Description
-We will discuss various apects of modern bioengineering.
+Обсуждение различных аспектов современной биоинженерии, синтетической биологии, генетических и геномных технологий, включая их развитие в историческом аспекте.
 
  
 ### Textbooks and learning resources
 
 ### Course calendar
-- Dates: 12/10/2022; 19/10/2022; 26/10/2022; 2/11/2022; 9/11/2022; 16/11/2022; 23/11/2022; 30/11/2022; 7/12/2022; 14/12/2022;
+- Dates: 2/10/2024; 9/10/2024; 16/10/2024; 23/10/2024?; 30/10/2024?; 6/11/2024; 13/11/2024?; 20/11/2022; 27/12/2024; 4/12/2024; 11/12/2024;
 
 ### Attendance policy
 - 100% attendance is required
@@ -32,6 +33,18 @@ We will discuss various apects of modern bioengineering.
 
 
 ### Course program (in Russian)
+
+Программа будет модернизироваться,
+планируется обсуждение следующих тем:
+1. Инженерная/синтетическая биология.
+2. Геномика
+3. Редактирование геномов.
+4. Эпигенетика
+5. Эпигенетическая инженерия.
+6. ИИ в биологии.
+
+
+#### Программа прошлого года
 
 
 <details><summary><ins>Лекция 1-4.</ins> Инженерная биология. Обзор.
