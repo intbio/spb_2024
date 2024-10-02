@@ -48,7 +48,7 @@
 
 
 <details><summary><ins>Лекция 1-4.</ins> Инженерная биология. Обзор.
-<a href="https://www.dropbox.com/s/e90hakf1v0nnokz/EngMethods_1.pptx?dl=0">Слайды лекции.</a> 
+<a href="https://www.dropbox.com/scl/fi/1qta5i0ckppox2tvj4z2g/EngMethods_1.pptx?rlkey=to7n0wlj4ufaa29vdrrgjyqrz&dl=0">Слайды лекции.</a> 
 <br>
 </details>
  
